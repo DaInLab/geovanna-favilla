@@ -14,8 +14,11 @@ Repositório criado para a entrega das resoluções dos exercícios de estatíst
 
 ## Bibliotecas
 readxl
+
 dplyr
+
 writexl
+
 qcc
 
 ## Referências Eletrônicas

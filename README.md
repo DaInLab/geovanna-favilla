@@ -23,7 +23,11 @@ qcc
 
 ## Referências Eletrônicas
 Gráfico Pareto: https://luca-scr.github.io/qcc/reference/pareto.chart.html
+
 Opções de plot para gráfico de barras: https://www.r-graph-gallery.com/209-the-options-of-barplot.html
+
 Medidas de Tendência Central em R: https://www.tutorialspoint.com/r/r_mean_median_mode.htm
+
 Uso de cores em R: https://datalab.cc/rcolors
+
 Dicas para criação de gráficos: https://blog.revolutionanalytics.com/2009/01/10-tips-for-making-your-r-graphics-look-their-best.html

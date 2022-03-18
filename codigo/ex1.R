@@ -45,3 +45,4 @@ dev.off()
 png(filename = "./graficos/ex1-fig3.png", width = 1000, height = 800)
 barplot(MinMax, main="Exercício 01 - Máximo e Mínimo", xlab="Taxas", ylab="Resultado", names.arg = nMinMax, beside=TRUE, ylim=range(pretty(c(0, MinMax))), cex.names = 0.8, xaxs = "i", col = rainbow(20), space=0.5)
 dev.off()
+

@@ -1,8 +1,8 @@
 library("writexl")
 
 
-numFilhos <- c(0, 1, 2, 3, 5,">5")
-nf <- c(0, 1, 2, 3, 5,6)
+numFilhos <- c(0, 1, 2, 3, 4, 5,">5")
+nf <- c(0, 1, 2, 3, 4, 5, 6)
 familias <- c(17, 20, 28, 19, 7, 4, 5)
 
 tabela <- data.frame("Filhos" = numFilhos, "Famílias" = familias)
